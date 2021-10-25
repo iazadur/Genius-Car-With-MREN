@@ -1,0 +1,10 @@
+.add-sercice form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.add-sercice input,textarea{
+    margin-bottom: 20px;
+    width: 40%;
+}
